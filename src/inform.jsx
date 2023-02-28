@@ -1,0 +1,2 @@
+// {"coord":{"lon":-75.5299,"lat":40.6801},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"base":"stations","main":{"temp":275.57,"feels_like":273.45,"temp_min":272.15,"temp_max":278.05,"pressure":1002,"humidity":49},"visibility":10000,"wind":{"speed":2.06,"deg":350},"clouds":{"all":0},"dt":1676286912,"sys":{"type":2,"id":2002445,"country":"US","sunrise":1676289544,"sunset":1676327628},"timezone":-18000,"id":5188351,"name":"Egypt","cod":200}
+//https://icons8.com/icons/set/weather
